@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-07-29T08:20:36.429Z</updated>
+    <updated>2020-07-30T07:21:16.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,24 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[八卦的小陈]]></title>
+        <id>https://yinmengliu.github.io/post/ba-gua-de-xiao-chen/</id>
+        <link href="https://yinmengliu.github.io/post/ba-gua-de-xiao-chen/">
+        </link>
+        <updated>2020-07-30T07:14:25.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>   今天中午在清真门口偶然看见有人晕倒，更巧的是晕倒的人是我们院的同级研究生，世界之小🤡🤡
+   有人说他是中暑才晕倒的，因此我猜测他是中午和他们打完篮球之后去食堂吃饭才发作的，总之很吓人啦。小陈看到救护车的时候，我已经从他的动作中看出了他八卦的心理（此处完全为了点题）
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>   今天中午在清真门口偶然看见有人晕倒，更巧的是晕倒的人是我们院的同级研究生，世界之小🤡🤡
+   有人说他是中暑才晕倒的，因此我猜测他是中午和他们打完篮球之后去食堂吃饭才发作的，总之很吓人啦。小陈看到救护车的时候，我已经从他的动作中看出了他八卦的心理（此处完全为了点题）
+</code></pre>
+<!-- more -->
+<pre><code>   马上就八月份了，八月，我立下了开始公务员复习的豪言壮志，只是为什么还没开始我就觉得好累😭😭😭
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World ！！!]]></title>
         <id>https://yinmengliu.github.io/post/hello-world/</id>

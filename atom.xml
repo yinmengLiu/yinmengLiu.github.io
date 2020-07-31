@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-07-30T07:23:38.377Z</updated>
+    <updated>2020-07-31T09:30:29.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,20 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[被移动气死的一天]]></title>
+        <id>https://yinmengliu.github.io/post/bei-yi-dong-qi-si-de-yi-tian/</id>
+        <link href="https://yinmengliu.github.io/post/bei-yi-dong-qi-si-de-yi-tian/">
+        </link>
+        <updated>2020-07-31T09:29:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>[TOC]</p>
+<h3 id="被移动气死的一天">被移动气死的一天</h3>
+]]></summary>
+        <content type="html"><![CDATA[<p>[TOC]</p>
+<h3 id="被移动气死的一天">被移动气死的一天</h3>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[八卦的小陈]]></title>
         <id>https://yinmengliu.github.io/post/ba-gua-de-xiao-chen/</id>

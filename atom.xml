@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-08-18T08:35:20.092Z</updated>
+    <updated>2020-08-28T08:01:12.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,16 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[气人精]]></title>
+        <id>https://yinmengliu.github.io/post/qi-ren-jing/</id>
+        <link href="https://yinmengliu.github.io/post/qi-ren-jing/">
+        </link>
+        <updated>2020-08-28T07:59:55.000Z</updated>
+        <content type="html"><![CDATA[<p>小陈真是气人精 没了小陈又不行~<br>
+😡</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宜昌漂流记]]></title>
         <id>https://yinmengliu.github.io/post/yi-chang-piao-liu-ji/</id>

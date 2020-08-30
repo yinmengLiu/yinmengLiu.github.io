@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-08-28T08:01:12.262Z</updated>
+    <updated>2020-08-30T08:50:12.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,17 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[直男小陈]]></title>
+        <id>https://yinmengliu.github.io/post/zhi-nan-xiao-chen/</id>
+        <link href="https://yinmengliu.github.io/post/zhi-nan-xiao-chen/">
+        </link>
+        <updated>2020-08-30T08:47:06.000Z</updated>
+        <content type="html"><![CDATA[<p>用于记录一些小陈的直男语录<br>
+1.有关“想小陈呢”<br>
+2.有关（想不起来了）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[气人精]]></title>
         <id>https://yinmengliu.github.io/post/qi-ren-jing/</id>

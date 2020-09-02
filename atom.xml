@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-09-01T11:57:05.996Z</updated>
+    <updated>2020-09-02T13:00:48.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,19 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[疑犯追踪（Person Of Interest）]]></title>
+        <id>https://yinmengliu.github.io/post/yi-fan-zhui-zong-person-of-interest/</id>
+        <link href="https://yinmengliu.github.io/post/yi-fan-zhui-zong-person-of-interest/">
+        </link>
+        <updated>2020-09-02T12:47:38.000Z</updated>
+        <content type="html"><![CDATA[<p>很好看的美剧，如果不是因为我着急后两季一直在快进以致被剧透的话，观感肯定会更好。<br>
+但是确实第四季、第五季质量下降，也许是因为更多的主线在于将TM与SM，而非救人了。总感觉很混乱，匆忙，跟前三季的有些铺垫连不上。<br>
+卡姐因为档期提前领便当已经让我觉得WTF了，根在最后竟然死的这么随意，包括以老师，未免死的太像跑龙套吧，以老师好歹有一丝反转，根太突然了。李四的死是我比较能接受，他的人生信条就是died as a hero，像他爸爸一样。芬奇这个角色确实在后期崩了，因为当我回想起来他的特点的时候，只能回忆起他皱着眉毛左右摇摆不定。<br>
+全剧我唯一哭的地方就TM的告白，难以想象人工智能有了感情，她说她不疼的时候好想抱抱。<br>
+总之这部剧10分我能打9.2分，每一集都像一个电影。包含了太多内容，不仅仅是剧情的发展，还有人性。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[直男小陈]]></title>
         <id>https://yinmengliu.github.io/post/zhi-nan-xiao-chen/</id>

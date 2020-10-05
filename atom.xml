@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-09-15T11:40:30.722Z</updated>
+    <updated>2020-10-05T09:37:29.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,18 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[十一长假]]></title>
+        <id>https://yinmengliu.github.io/post/shi-yi-chang-jia/</id>
+        <link href="https://yinmengliu.github.io/post/shi-yi-chang-jia/">
+        </link>
+        <updated>2020-10-05T09:35:13.000Z</updated>
+        <content type="html"><![CDATA[<p>呵呵 小陈抛弃了我<br>
+去完上海开会 我说你咋不直接去杭州玩啦 小陈说陪陪我啦 然后不能报销<br>
+昨天和小陈实验室师妹一起吃饭 师妹也问了小陈一样的问题 小陈说是因为直接去杭州不能报销啦<br>
+小陈其人 可见一斑🙃</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[充电器事故]]></title>
         <id>https://yinmengliu.github.io/post/chong-dian-qi-shi-gu/</id>
@@ -111,23 +123,6 @@
 
    马上就八月份了，八月，我立下了开始公务员复习的豪言壮志，只是为什么还没开始我就觉得好累😭😭😭
 </code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World ！！!]]></title>
-        <id>https://yinmengliu.github.io/post/hello-world/</id>
-        <link href="https://yinmengliu.github.io/post/hello-world/">
-        </link>
-        <updated>2020-07-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>😎😎😎  欢迎来到<strong>小刘和小陈</strong>的频道，顾名思义，小刘和小陈是两个人，他们是好伙伴、好朋友，相识于2018年的冬天。<br>
-🤠🤠🤠小刘<strong>聪明又温柔</strong>，小陈<strong>傻傻又粗心</strong>，写字丑丑的啦🙋‍♂🙋‍♂，但是他们两个都很可爱啦（但是小刘比小陈更可爱一点😊😊😊）。  他们体重相同，希望小陈反思一下👀👀<br>
-🍒🍒  这个网站的创建初衷是为了纪念小刘和小陈的一周年纪念日（哇咔咔🍺🍺🍺），然后希望能正好在繁忙的生活中感受一些美好且琐碎的瞬间</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>😎😎😎  欢迎来到<strong>小刘和小陈</strong>的频道，顾名思义，小刘和小陈是两个人，他们是好伙伴、好朋友，相识于2018年的冬天。<br>
-🤠🤠🤠小刘<strong>聪明又温柔</strong>，小陈<strong>傻傻又粗心</strong>，写字丑丑的啦🙋‍♂🙋‍♂，但是他们两个都很可爱啦（但是小刘比小陈更可爱一点😊😊😊）。  他们体重相同，希望小陈反思一下👀👀<br>
-🍒🍒  这个网站的创建初衷是为了纪念小刘和小陈的一周年纪念日（哇咔咔🍺🍺🍺），然后希望能正好在繁忙的生活中感受一些美好且琐碎的瞬间</p>
-<!-- more -->
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>

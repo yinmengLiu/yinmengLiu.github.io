@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-10-07T02:02:06.512Z</updated>
+    <updated>2020-10-07T06:35:55.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,15 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[小陈苏杭五日游]]></title>
+        <id>https://yinmengliu.github.io/post/xiao-chen-su-hang-wu-ri-you/</id>
+        <link href="https://yinmengliu.github.io/post/xiao-chen-su-hang-wu-ri-you/">
+        </link>
+        <updated>2020-10-07T06:35:14.000Z</updated>
+        <content type="html"><![CDATA[<p>先棒小陈占个坑，有时间再更照片啦</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于转博]]></title>
         <id>https://yinmengliu.github.io/post/guan-yu-zhuan-bo/</id>
@@ -108,18 +117,6 @@
         <updated>2020-08-18T08:33:54.000Z</updated>
         <content type="html"><![CDATA[<p>还没时间写啦 但是要先记录下来 我又没有拍照<br>
 这次漂流好曲折 不过吃的挺好啦 漂流好玩 景区服务不行</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被移动气死的一天]]></title>
-        <id>https://yinmengliu.github.io/post/bei-yi-dong-qi-si-de-yi-tian/</id>
-        <link href="https://yinmengliu.github.io/post/bei-yi-dong-qi-si-de-yi-tian/">
-        </link>
-        <updated>2020-07-31T09:29:25.000Z</updated>
-        <summary type="html"><![CDATA[<h3 id="被移动气死的一天">被移动气死的一天</h3>
-]]></summary>
-        <content type="html"><![CDATA[<h3 id="被移动气死的一天">被移动气死的一天</h3>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>

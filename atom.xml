@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-10-07T06:36:15.652Z</updated>
+    <updated>2020-10-25T07:34:22.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,15 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[10.25]]></title>
+        <id>https://yinmengliu.github.io/post/1025/</id>
+        <link href="https://yinmengliu.github.io/post/1025/">
+        </link>
+        <updated>2020-10-25T07:33:55.000Z</updated>
+        <content type="html"><![CDATA[<p>关于练习分手</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小陈苏杭五日游]]></title>
         <id>https://yinmengliu.github.io/post/xiao-chen-su-hang-wu-ri-you/</id>
@@ -107,16 +116,6 @@
         <updated>2020-08-28T07:59:55.000Z</updated>
         <content type="html"><![CDATA[<p>小陈真是气人精 没了小陈又不行~<br>
 😡</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宜昌漂流记]]></title>
-        <id>https://yinmengliu.github.io/post/yi-chang-piao-liu-ji/</id>
-        <link href="https://yinmengliu.github.io/post/yi-chang-piao-liu-ji/">
-        </link>
-        <updated>2020-08-18T08:33:54.000Z</updated>
-        <content type="html"><![CDATA[<p>还没时间写啦 但是要先记录下来 我又没有拍照<br>
-这次漂流好曲折 不过吃的挺好啦 漂流好玩 景区服务不行</p>
 ]]></content>
     </entry>
 </feed>

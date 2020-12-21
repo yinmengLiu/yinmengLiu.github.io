@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-10-25T07:35:11.080Z</updated>
+    <updated>2020-12-21T08:12:00.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,18 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[【杂谈】]]></title>
+        <id>https://yinmengliu.github.io/post/za-tan/</id>
+        <link href="https://yinmengliu.github.io/post/za-tan/">
+        </link>
+        <updated>2020-12-21T08:07:12.000Z</updated>
+        <content type="html"><![CDATA[<p>小陈1月4号要去中山大学博士复试了，希望一切顺利，我们都可以去一个新城市开启新的生活，嘻嘻。<br>
+小陈的第一篇文章这两天应该也就差不多就接收了，我毕业前应该也可以挂到文章，一切都在稳步进行，那就只希望自己到时候考公务员比较顺利，或者说是找工作顺利，拜托了。<br>
+有时候也感慨疫情之后我的处境比之前好很多，去年整个人都是被自暴自弃笼罩的，今年感觉一切都在变好，不知道是不是本命年加持的缘故。<br>
+不过关于我和小陈能走到哪里，还是一个未知数，希望他不要让我失望吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10.25]]></title>
         <id>https://yinmengliu.github.io/post/1025/</id>
@@ -106,16 +118,6 @@
 1.有关“想小陈呢”<br>
 2.有关（想不起来了）<br>
 3.我鼻子好痒 那是我在想你 这里好臭  那是你在放屁</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[气人精]]></title>
-        <id>https://yinmengliu.github.io/post/qi-ren-jing/</id>
-        <link href="https://yinmengliu.github.io/post/qi-ren-jing/">
-        </link>
-        <updated>2020-08-28T07:59:55.000Z</updated>
-        <content type="html"><![CDATA[<p>小陈真是气人精 没了小陈又不行~<br>
-😡</p>
 ]]></content>
     </entry>
 </feed>

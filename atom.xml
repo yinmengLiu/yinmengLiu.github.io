@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2020-12-21T08:12:30.299Z</updated>
+    <updated>2021-02-22T03:01:16.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -10,7 +10,20 @@
 小陈小陈 可爱迷人</subtitle>
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 小刘和小陈</rights>
+    <rights>All rights reserved 2021, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[【毕业ing】]]></title>
+        <id>https://yinmengliu.github.io/post/bi-ye-ing/</id>
+        <link href="https://yinmengliu.github.io/post/bi-ye-ing/">
+        </link>
+        <updated>2021-02-22T02:56:47.000Z</updated>
+        <content type="html"><![CDATA[<p>虽然兜兜转转，小陈也算是考上博士啦，棒棒啦<br>
+再一次为我自己忧虑，有时候觉得应该这样这样，有时候又觉得应该那样那样，怎么这么容易摇摆。<br>
+或许应该用一种积极的心态来面对，除了工作的事，至少一切都在慢慢变好吧。<br>
+毕业越来越近，这几年头一次有时候会觉得全身心放松，加油啦，一步一个脚印啊同学，不要太被别人的风景迷惑。<br>
+欣喜的看到有时候自己不会再把一切憋在心里，造成一种苦情又凄楚的氛围。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【杂谈】]]></title>
         <id>https://yinmengliu.github.io/post/za-tan/</id>
@@ -106,18 +119,6 @@
 卡姐因为档期提前领便当已经让我觉得WTF了，根在最后竟然死的这么随意，包括以老师，未免死的太像跑龙套吧，以老师好歹有一丝反转，根太突然了。李四的死是我比较能接受，他的人生信条就是died as a hero，像他爸爸一样。芬奇这个角色确实在后期崩了，因为当我回想起来他的特点的时候，只能回忆起他皱着眉毛左右摇摆不定。<br>
 全剧我唯一哭的地方就TM的告白，难以想象人工智能有了感情，她说她不疼的时候好想抱抱。<br>
 总之这部剧10分我能打9.2分，每一集都像一个电影。包含了太多内容，不仅仅是剧情的发展，还有人性。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直男小陈]]></title>
-        <id>https://yinmengliu.github.io/post/zhi-nan-xiao-chen/</id>
-        <link href="https://yinmengliu.github.io/post/zhi-nan-xiao-chen/">
-        </link>
-        <updated>2020-08-30T08:47:06.000Z</updated>
-        <content type="html"><![CDATA[<p>用于记录一些小陈的直男语录<br>
-1.有关“想小陈呢”<br>
-2.有关（想不起来了）<br>
-3.我鼻子好痒 那是我在想你 这里好臭  那是你在放屁</p>
 ]]></content>
     </entry>
 </feed>

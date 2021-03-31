@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2021-02-22T03:44:25.432Z</updated>
+    <updated>2021-03-31T12:25:49.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,15 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[【毕业倒计时】]]></title>
+        <id>https://yinmengliu.github.io/post/bi-ye-dao-ji-shi/</id>
+        <link href="https://yinmengliu.github.io/post/bi-ye-dao-ji-shi/">
+        </link>
+        <updated>2021-03-31T12:23:28.000Z</updated>
+        <content type="html"><![CDATA[<p>期待期待啦，终于要迈入社会生活啦，离毕业最多还有三个月啦，嘻嘻</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【音乐时光机】]]></title>
         <id>https://yinmengliu.github.io/post/yin-le-shi-guang-ji/</id>
@@ -111,16 +120,6 @@
         </link>
         <updated>2020-09-09T07:05:30.000Z</updated>
         <content type="html"><![CDATA[<p>想分手了 不是任何试探 如果我一语成谶 那证明你还真的不会让我失望</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古木吟]]></title>
-        <id>https://yinmengliu.github.io/post/gu-mu-yin/</id>
-        <link href="https://yinmengliu.github.io/post/gu-mu-yin/">
-        </link>
-        <updated>2020-09-07T07:32:42.000Z</updated>
-        <content type="html"><![CDATA[<p>剧本杀 先记录 一次新的体验啦<br>
-我的角色是林小鱼</p>
 ]]></content>
     </entry>
 </feed>

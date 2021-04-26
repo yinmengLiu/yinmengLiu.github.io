@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2021-03-31T12:26:23.094Z</updated>
+    <updated>2021-04-26T08:35:40.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,16 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[倏忽之间]]></title>
+        <id>https://yinmengliu.github.io/post/shu-hu-zhi-jian/</id>
+        <link href="https://yinmengliu.github.io/post/shu-hu-zhi-jian/">
+        </link>
+        <updated>2021-04-26T08:32:24.000Z</updated>
+        <content type="html"><![CDATA[<p>刚无意间扫过日历，才发现后天就过生日了，实在是这段时间晕头转向，差点就忘了这件事。不想因为长大就忘了某些事，明明以前我从生日前的一个星期就开始开心了。<br>
+决定转博，希望自己好好的，最近希望自己能多读点书，能每天练练字。感觉自己现在文学素质堪忧，没有时间只是借口，其实还是我太懒了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【毕业倒计时】]]></title>
         <id>https://yinmengliu.github.io/post/bi-ye-dao-ji-shi/</id>
@@ -111,15 +121,6 @@
 还是觉得当我说出“我原谅你了”的时候自己很伟大 哈哈 虽然还是委屈又气愤啦 但是当时想到一句名言 类似原谅的人才很高尚  也是不知道为什么想到这个 并且想到和我们家邻居那样的无赖也说不通的时候 或许人如果能正常跟别人对话的前提是双方有相同的世界观、价值观 所以我知道她永远也不会觉得她错了<br>
 只能默默希望善有善报、恶有恶报啦。<br>
 经过这件事之后，希望自己也能不那么容易生气，确实伤身啦。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无题]]></title>
-        <id>https://yinmengliu.github.io/post/wu-ti/</id>
-        <link href="https://yinmengliu.github.io/post/wu-ti/">
-        </link>
-        <updated>2020-09-09T07:05:30.000Z</updated>
-        <content type="html"><![CDATA[<p>想分手了 不是任何试探 如果我一语成谶 那证明你还真的不会让我失望</p>
 ]]></content>
     </entry>
 </feed>

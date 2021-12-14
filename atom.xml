@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinmengliu.github.io/</id>
     <title>小刘和小陈</title>
-    <updated>2021-12-14T14:32:37.631Z</updated>
+    <updated>2021-12-14T14:35:00.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinmengliu.github.io/"/>
     <link rel="self" href="https://yinmengliu.github.io/atom.xml"/>
@@ -11,6 +11,15 @@
     <logo>https://yinmengliu.github.io/images/avatar.png</logo>
     <icon>https://yinmengliu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小刘和小陈</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://yinmengliu.github.io/post/test/</id>
+        <link href="https://yinmengliu.github.io/post/test/">
+        </link>
+        <updated>2021-12-14T14:34:43.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倏忽之间]]></title>
         <id>https://yinmengliu.github.io/post/shu-hu-zhi-jian/</id>
@@ -109,18 +118,6 @@
 去完上海开会 我说你咋不直接去杭州玩啦 小陈说陪陪我啦 然后不能报销<br>
 昨天和小陈实验室师妹一起吃饭 师妹也问了小陈一样的问题 小陈说是因为直接去杭州不能报销啦<br>
 小陈其人 可见一斑🙃</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[充电器事故]]></title>
-        <id>https://yinmengliu.github.io/post/chong-dian-qi-shi-gu/</id>
-        <link href="https://yinmengliu.github.io/post/chong-dian-qi-shi-gu/">
-        </link>
-        <updated>2020-09-14T11:41:32.000Z</updated>
-        <content type="html"><![CDATA[<p>先记录 ，气死<br>
-还是觉得当我说出“我原谅你了”的时候自己很伟大 哈哈 虽然还是委屈又气愤啦 但是当时想到一句名言 类似原谅的人才很高尚  也是不知道为什么想到这个 并且想到和我们家邻居那样的无赖也说不通的时候 或许人如果能正常跟别人对话的前提是双方有相同的世界观、价值观 所以我知道她永远也不会觉得她错了<br>
-只能默默希望善有善报、恶有恶报啦。<br>
-经过这件事之后，希望自己也能不那么容易生气，确实伤身啦。</p>
 ]]></content>
     </entry>
 </feed>
